@@ -1,4 +1,6 @@
 //Nico Mayoral
+//1/29/24
+//Traffic Light
 void setup() {
   pinMode(13, OUTPUT);
   pinMode(12, OUTPUT);
